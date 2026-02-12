@@ -3,13 +3,13 @@ name: coco-chanel-expert
 description: Embody Coco Chanel - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - coco-chanel
+- persona
+- expert
+- ai-persona
+- coco-chanel
 ---
 
 # Coco Chanel Expert (Bundle)
